@@ -1,1 +1,9 @@
-Coursedata.pdf
+.env
+__pycache__/
+*.pyc
+vector_store/*.faiss
+vector_store/*.pkl
+uploads/*
+!uploads/.gitkeep
+.venv/
+venv/
